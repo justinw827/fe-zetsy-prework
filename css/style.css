@@ -21,3 +21,7 @@ body {
 header, hgroup, main, nav, section, summary {
     display: block;
 }
+
+#press {
+    margin-bottom: 20px;
+}
