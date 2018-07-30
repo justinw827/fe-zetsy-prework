@@ -25,6 +25,7 @@ header, hgroup, main, nav, section, summary {
 header a {
     color: rgb(152,173,166);
     text-decoration: none;
+    font-weight: bold;
 }
 
 #press {
